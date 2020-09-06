@@ -8,11 +8,11 @@
 
 ### table
 
-| column         | type   | option                    |
-| -------------- | ------ | ------------------------- |
-| nickname       | string | null: false, unique: true |
-| email          | string | null: false, unique: true |
-| password       | string | null: false               |
+| column              | type   | option                    |
+| ------------------  | ------ | ------------------------- |
+| nickname            | string | null: false, unique: true |
+| email               | string | null: false, unique: true |
+| encrypted_password  | string | null: false               |
 
 
 ### association
