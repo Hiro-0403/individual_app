@@ -2,7 +2,7 @@
 
 ## ER diagram
 
-![ER diagram](./public/images/fleamarket_sample_73c.png)
+![ER diagram](https://user-images.githubusercontent.com/63594128/92335028-fbb31180-f0cd-11ea-84cb-4a67c719b3db.png)
 
 ## users
 
